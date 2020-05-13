@@ -3,6 +3,28 @@
 This Kata (For Refactoring) was created by Emily Bache (https://twitter.com/emilybache) and it is on GitHub [here](https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/master/csharpcore) 
 for DotNet Core C#. 
 
+## My Gilded Rose Refactoring Kata Solution
+For this Kata we have a legacy system (inventory system) due to this, firstly we need to have a test suite. 
+If we want to add new business rules or use cases to our system, we have to be sure that we are not going to break the current system, so we need to test business rules. 
+
+What is Refactoring? 
+Refactoring is the process to alter our information system (code) with the aim of improving the internal quality, so that it is
+easier to understand by any team people, make it maintainable,...THAT IS we always have to preserve its behaviour. 
+
+Here I am enumerating a serie of concepts to consider: 
+- Sustainability 
+- Habitable Code 
+- Clean Code 
+- Code Smells 
+- Naming 
+- SOLID. Best Pratices POO. 
+
+1. Business rules Testing 
+2. Golden Test 
+3. We have to fix the Objective fof "a new category of items"
+
+
+
 ## Gilded Rose Requirements Specification
 
 Hi and welcome to team Gilded Rose. As you know, we are **a small inn** with a prime location in a
